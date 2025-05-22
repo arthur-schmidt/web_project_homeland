@@ -6,3 +6,9 @@
 .header__logo {
   margin-top: 34px;
 }
+
+@media screen and (max-width: 768px) {
+  .header__logo {
+    margin-top: 30px;
+  }
+}
