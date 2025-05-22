@@ -1,0 +1,42 @@
+.intro {
+  display: flex;
+  flex-flow: column wrap;
+  padding-left: 148px;
+}
+
+.intro__title {
+  max-width: 830px;
+  max-height: 116px;
+  font-weight: 900;
+  font-size: 54px;
+  margin-top: 92px;
+  margin-bottom: 40px;
+}
+
+.intro__quote {
+  max-width: 738px;
+  max-height: 68px;
+  font-weight: 400;
+  font-size: 24px;
+  margin-bottom: 10px;
+  margin-top: 0;
+}
+
+.intro__quote-cite {
+  max-width: 732px;
+  max-height: 34px;
+  font-weight: 400;
+  font-size: 24px;
+  text-align: end;
+  margin-top: 0;
+  margin-bottom: 32px;
+}
+
+.intro__description {
+  max-width: 722px;
+  max-height: 182px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 163%;
+  margin: 0;
+}
