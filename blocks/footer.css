@@ -18,3 +18,9 @@
     margin-top: 88px;
   }
 }
+
+@media screen and (max-width: 320px) {
+  .footer__copyright {
+    margin-top: 64px;
+  }
+}

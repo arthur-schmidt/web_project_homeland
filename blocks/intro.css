@@ -1,13 +1,12 @@
 .intro {
   display: flex;
   flex-flow: column wrap;
-  padding-left: 148px;
+  padding-left: 11.7%;
   max-width: 830px;
 }
 
 .intro__title {
   max-width: 830px;
-  max-height: 116px;
   font-weight: 900;
   font-size: 54px;
   margin-top: 92px;
@@ -38,7 +37,6 @@
 
 .intro__description {
   max-width: 722px;
-  max-height: 182px;
   font-weight: 400;
   font-size: 16px;
   line-height: 163%;
@@ -66,5 +64,37 @@
 
   .intro__quote-cite {
     max-height: 34px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .intro {
+    box-sizing: border-box;
+    padding: 0 16px;
+  }
+
+  .intro__title {
+    font-size: 32px;
+    line-height: 35px;
+    margin: 64px 0 40px;
+    max-width: 100%;
+  }
+
+  .intro__quote {
+    margin-bottom: 10px;
+    line-height: 30px;
+    max-width: 100%;
+  }
+
+  .intro__quote-cite {
+    max-width: 100%;
+  }
+
+  .intro__description {
+    max-height: 442px;
+    font-size: 16px;
+    line-height: 163%;
+    margin: 0;
+    max-width: 100%;
   }
 }
