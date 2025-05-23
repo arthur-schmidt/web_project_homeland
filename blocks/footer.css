@@ -13,14 +13,15 @@
   text-align: end;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1024px) {
   .footer__copyright {
     margin-top: 88px;
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 544px) {
   .footer__copyright {
     margin-top: 64px;
+    max-height: 14px;
   }
 }

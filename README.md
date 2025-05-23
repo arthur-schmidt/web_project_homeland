@@ -1,7 +1,9 @@
 # Tripleten web_project_homeland
 
-# DESCRIÇAO DO PROJETO E SUA FUNCIONALIDADE
+# O projeto Homeland - TripleTen Art Gallery - tem o objetivo de ser um espaço onde os colaboradores da TripleTen possam compartilhar um pouco de sua história e fotos de sua cidade natal.
 
-# DESCRIÇÃO DAS TECNOLOGIAS E TÉCNICAS UTILIZADAS
+![Print da sessão lead](/images/lead__printscreen.png)
 
-# LINK PARA O GITHUB PAGES
+# O site foi desenvolvido seguindo a metodologia BEM Flat e é responsivo em telas de diversas resoluções.
+
+# https://github.com/arthur-schmidt/web_project_homeland
