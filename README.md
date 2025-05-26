@@ -6,4 +6,4 @@
 
 # O site foi desenvolvido seguindo a metodologia BEM Flat e é responsivo em telas de diversas resoluções.
 
-# https://github.com/arthur-schmidt/web_project_homeland
+# https://arthur-schmidt.github.io/web_project_homeland/
