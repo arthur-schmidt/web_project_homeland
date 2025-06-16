@@ -9,7 +9,8 @@
     "title artist"
     "image top-paragraph"
     "image bottom-paragraph"
-    "image extra-paragraph";
+    "image extra-paragraph"
+    "button .";
   margin-top: 93px;
 }
 
@@ -72,7 +73,6 @@
 }
 
 .places__button {
-  grid-area: button;
   text-decoration: none;
   font-size: 18px;
   line-height: 100%;
@@ -85,8 +85,9 @@
 }
 
 .places__button-third {
+  grid-area: button;
   position: relative;
-  top: -115px;
+  top: -170px;
 }
 
 @media screen and (max-width: 1024px) {
